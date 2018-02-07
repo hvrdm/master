@@ -1,1 +1,3 @@
-# master
+
+Work involved in my masters thesis --> 
+Machine Learning, Neural Networks, GAN etc...
